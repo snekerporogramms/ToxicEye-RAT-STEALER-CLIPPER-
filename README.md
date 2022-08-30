@@ -2,7 +2,8 @@
 Program for remote control of windows computers via telegram bot. Written in C#  
 
 <p align="center">
-  <img src="images/logo.png">
+  <img src="![logo](https://user-images.githubusercontent.com/54885776/187412272-efdcf6e4-21d3-40a8-b336-2f3df8bb99f9.png)">
+
 </p>
 
 # :fallen_leaf: Functions:
