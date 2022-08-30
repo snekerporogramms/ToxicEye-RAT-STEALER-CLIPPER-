@@ -2,7 +2,9 @@
 Program for remote control of windows computers via telegram bot. Written in C#  
 
 <p align="center">
-  ![logo](https://user-images.githubusercontent.com/54885776/187412272-efdcf6e4-21d3-40a8-b336-2f3df8bb99f9.png)"
+![logo](https://user-images.githubusercontent.com/54885776/187412542-44f78d65-e98a-4a21-a32d-40cb9879c0c0.png)
+
+
 
 </p>
 
@@ -11,7 +13,7 @@ ComputerInfo, BatteryInfo, Location, Whois, ActiveWindow, Webcam, Microphone, De
 
 # :hammer: Compiling guide:  
 * Go to the [@BotFather](https://t.me/BotFather) bot and create your own bot. You need to save the token and bot name.  
-  ![](images/createBot.JPG)  
+   
 * Now you need to get your chat id. To do this, go to the next bot [@chatid_echo_bot](https://t.me/chatid_echo_bot) and save the id.  
   ![](images/chatidBot.JPG)  
 * Now you need to download [Visual Studio 2019](https://visualstudio.microsoft.com/en/vs/)  
