@@ -1,0 +1,12 @@
+C:\Users\nikita\Desktop\ToxicEye-master\TelegramRAT\TelegramRAT\bin\Release\TelegramRAT.exe.config
+C:\Users\nikita\Desktop\ToxicEye-master\TelegramRAT\TelegramRAT\bin\Release\TelegramRAT.exe
+C:\Users\nikita\Desktop\ToxicEye-master\TelegramRAT\TelegramRAT\bin\Release\TelegramRAT.pdb
+C:\Users\nikita\Desktop\ToxicEye-master\TelegramRAT\TelegramRAT\bin\Release\AudioSwitcher.AudioApi.CoreAudio.dll
+C:\Users\nikita\Desktop\ToxicEye-master\TelegramRAT\TelegramRAT\bin\Release\AudioSwitcher.AudioApi.dll
+C:\Users\nikita\Desktop\ToxicEye-master\TelegramRAT\TelegramRAT\bin\Release\Sodium.dll
+C:\Users\nikita\Desktop\ToxicEye-master\TelegramRAT\TelegramRAT\obj\Release\TelegramRAT.csproj.AssemblyReference.cache
+C:\Users\nikita\Desktop\ToxicEye-master\TelegramRAT\TelegramRAT\obj\Release\TelegramRAT.csproj.SuggestedBindingRedirects.cache
+C:\Users\nikita\Desktop\ToxicEye-master\TelegramRAT\TelegramRAT\obj\Release\TelegramRAT.csproj.CoreCompileInputs.cache
+C:\Users\nikita\Desktop\ToxicEye-master\TelegramRAT\TelegramRAT\obj\Release\TelegramRAT.csproj.CopyComplete
+C:\Users\nikita\Desktop\ToxicEye-master\TelegramRAT\TelegramRAT\obj\Release\TelegramRAT.exe
+C:\Users\nikita\Desktop\ToxicEye-master\TelegramRAT\TelegramRAT\obj\Release\TelegramRAT.pdb
